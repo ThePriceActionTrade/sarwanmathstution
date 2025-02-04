@@ -14,7 +14,7 @@ body {
 
 /* Header Styles */
 header {
-  background: #d8b4ff; /* light purple mixed tone */
+  background: #4b0082; /* light purple mixed tone */
   color: #fff;
   padding: 20px;
   display: flex;
@@ -96,7 +96,7 @@ nav a {
 }
 
 #contact-form button {
-  background: #d8b4ff;
+  background: #4b0082;
   color: #fff;
   border: none;
   padding: 10px;
